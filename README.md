@@ -14,7 +14,7 @@ I am using sample Data for the cards in the Frontend, I have written the code fo
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/fullstack-assignment.git
+   git clone https://github.com/Crazyhaller/fullstack-assignment.git
    ```
 
 2. Navigate to the frontend directory:
